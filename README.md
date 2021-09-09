@@ -35,3 +35,5 @@ rm "${t%.*}"_pp.pdf
 done
 
 2.4 save the whole thing as 'screen png to ocr pdf
+
+[Background Story](https://www.linkedin.com/posts/joergoyen_hazel-automator-ocr-activity-6839579524485709824-DxRs)
