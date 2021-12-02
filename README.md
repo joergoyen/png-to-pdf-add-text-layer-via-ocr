@@ -3,7 +3,7 @@ Mac OS: Highlight text in screen shots - find it again
 
 Ready? In case you are travelling with Apple Mac OS ...
 
-! insure that you allready installed xcode !
+⚠️ insure that you allready installed xcode 
 
 1. launch Terminal
 2. 
