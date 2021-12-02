@@ -5,6 +5,10 @@ Ready? In case you are travelling with Apple Mac OS ...
 
 ⚠️ insure that you allready installed xcode 
 
+if not rest ~30 Minutes after starting the download via
+...
+xcode-select --install
+
 1. launch Terminal
 2. 
 In the terminal, copy and paste the following 'instructions' and execute them
